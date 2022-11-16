@@ -1,0 +1,21 @@
+{
+    "id": 132,
+    "content": "salom",
+    "inbox_id": 19,
+    "conversation_id": 67,
+    "message_type": 1,
+    "content_type": "text",
+    "content_attributes": {},
+    "created_at": 1668583634,
+    "private": false,
+    "source_id": null,
+    "sender": {
+        "id": 2,
+        "name": "Husniddin",
+        "available_name": "Husniddin",
+        "avatar_url": "",
+        "type": "user",
+        "availability_status": "online",
+        "thumbnail": ""
+    }
+}

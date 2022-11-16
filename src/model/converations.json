@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "sender": {
+            "additional_attributes": {},
+            "availability_status": "offline",
+            "email": "78@nolbir.io",
+            "id": 121,
+            "name": "HUSNIDDIN",
+            "phone_number": "",
+            "identifier": null,
+            "thumbnail": "",
+            "custom_attributes": {
+                "bot": 664131109,
+                "telegram_user_name": "Husniddin_989"
+            }
+        },
+        "channel": "Channel::Api",
+        "hmac_verified": false
+    },
+    "id": 67,
+    "messages": [],
+    "account_id": 2,
+    "additional_attributes": {},
+    "agent_last_seen_at": 0,
+    "assignee_last_seen_at": 0,
+    "can_reply": true,
+    "contact_last_seen_at": 0,
+    "custom_attributes": {
+        "attribute_key": "attribute_value",
+        "priority_conversation_number": 1
+    },
+    "inbox_id": 19,
+    "labels": [],
+    "muted": false,
+    "snoozed_until": null,
+    "status": "open",
+    "timestamp": 1668583612,
+    "unread_count": 0
+}
